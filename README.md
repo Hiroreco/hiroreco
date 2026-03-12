@@ -1,5 +1,3 @@
 ヤッホー。いろんなことを作ります！
 Software developer, mostly self-taught so please don't yell at me.
-
-Learning / 学んでいる
-- Unity: to make a **HoloEarth and HoloDream** clone.
+Check out all of my projects on [HoloFun!](https://holofun.net/)
