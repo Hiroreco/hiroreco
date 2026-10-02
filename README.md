@@ -9,7 +9,7 @@ Here are some of my proudest works:
 - [HoloCalendar](https://calendar.holofun.net): An interative and comprehensive way to track all the talents' events.
 - [Immerhate Archive](https://immerhate.holofun.net): A hate-filled archive for a hate-filled automaton.
 
-You can find all of my other projects as well on the [HoloFun](https://holofun.net) website, or through my [Portfolio](https://hiroreco.github.io/portfolio/)
+You can find all of my other projects as well on the [HoloFun](https://holofun.net) website, or through my [Portfolio](https://hiroreco.github.io/portfolio/).
 
 ![HoloFun](banner.jpg)
 
