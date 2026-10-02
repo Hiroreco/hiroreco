@@ -5,7 +5,7 @@ Creator of the **HoloFun** projects, trying my best to make fun things for the H
 Here are some of my proudest works:
 
 - [ENreco Archive](https://enreco-archive.net): A collaborative project, archiving everything ENreco related [(repo)](https://github.com/Hiroreco/enreco-archive).
-- [HoloLogs](https://logs.holofun.net): A catalog of streams, compiled in to insightful data.
+- [HoloLogs](https://logs.holofun.net): A catalog of streams, compiled into insightful data.
 - [HoloCalendar](https://calendar.holofun.net): An interative and comprehensive way to track all the talents' events.
 - [Immerhate Archive](https://immerhate.holofun.net): A hate-filled archive for a hate-filled automaton.
 
